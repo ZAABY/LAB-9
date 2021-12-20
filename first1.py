@@ -13,7 +13,7 @@ for c in encrypted_text:
         plain_text +=c
 
 print("Original Text : " + encrypted_text)
-print(" Encrypted Text :" + plain_text)
+
 
 s = 3
 encrypted_text = "WLEXFY"
@@ -30,4 +30,4 @@ for c in encrypted_text:
         plain_text += c
 
 print("Encrypted Text : " + encrypted_text)
-print("Decrypted Text : " + plain_text)
+
