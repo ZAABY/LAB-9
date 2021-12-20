@@ -30,4 +30,6 @@ for c in encrypted_text:
         plain_text += c
 
 print("Encrypted Text : " + encrypted_text)
-
+print("Encrypted Text : " + encrypted_text)
+print("Encrypted Text : " + encrypted_text)
+print("Encrypted Text : " + encrypted_text)
